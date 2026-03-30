@@ -12,7 +12,7 @@ A minimalist, transparent, and floating Spotify controller widget designed speci
 ---
 
 ## 🚀 Kurulum & Çalıştırma (Hiçbir Kod Editörü Gerekmeden!)
-Uygulamayı indiren kişilerin kod çalıştırmakla veya kod editörü indirmekle uğraşmasına **gerek yoktur!** Bu depo içerisinde herkesin tıklayıp çalıştırabileceği derlenmiş `spotify-widget` dosyası mevcuttur. Programı çalıştırdıkran sonra Alt+Space tuşlarına basarak "Always Top" seçeneğini seçerseniz üste sürekli olarak yerleştirmiş olursunuz.(Şuan için her seferinde yapmak gerekiyor.)
+Uygulamayı indiren kişilerin kod çalıştırmakla veya kod editörü indirmekle uğraşmasına **gerek yoktur!** Bu depo içerisinde herkesin tıklayıp çalıştırabileceği derlenmiş `spotify-widget` dosyası mevcuttur. Programı çalıştırdıkran sonra Alt+Space tuşlarına basarak "Always on Top" seçeneğini seçerseniz üste sürekli olarak yerleştirmiş olursunuz.(Şuan için her seferinde yapmak gerekiyor.)
 
 ### 1. Sistem Gereksinimleri
 Eklentinin çalışabilmesi (müziği okuyup kontrol edebilmesi) için hangi Linux sürümünü kullanıyorsanız kullanın, arka planda **`playerctl`** programının yüklü olması şarttır.
