@@ -2,8 +2,6 @@
 
 A minimalist, transparent, and floating Spotify controller widget designed specifically for Linux desktop environments. It allows you to quickly view your current song, pause/play, skip tracks, and adjust the volume—all from a sleek hovering panel!
 
-*(Buraya projenizin ekran görüntüsünü ekleyin: `![Ekran Görüntüsü](link)`)*
-
 ## 📦 Özellikler
 * **Hover (Üzerine Gelme) Paneli:** Normalde minik şeffaf bir Spotify logosudur, tıklayıp sürükleyebilirsiniz. Üzerine çift tıklayınca veya sağ tıklayınca detaylı müzik çalar moduna geçer.
 * **Modern Arayüz:** Pürüzsüz köşeler (border-radius), saydamlık oranları, temiz ikonlar ve şık ses/medya barları ile GTK3 bazlı bir arayüze sahiptir.
